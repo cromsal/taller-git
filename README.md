@@ -2,6 +2,7 @@
 
 Repositorio para el taller de git.
 
+<<<<<<< HEAD
 ## Encabezado de tipo h2
 
 Bla bla bla.
@@ -19,3 +20,6 @@ Bli Bli Bli.
 Blo Blo Blo.
 
 Otra linea
+=======
+Cambios desde GitHub
+>>>>>>> 36a386b7b7a57b0ceb8e7ef2c721c7a96aa74077
